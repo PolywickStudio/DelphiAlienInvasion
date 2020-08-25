@@ -1,0 +1,10 @@
+*.stat
+AlienInvasionStarter/__recovery/
+*.local
+AlienInvasionStarter/Win32/Debug/AlienInvasion.exe
+*.identcache
+AlienInvasionStarter/Win32/Debug/
+*.dcu
+AlienInvasionStarter/__history/
+*.dsk
+*.~dsk
